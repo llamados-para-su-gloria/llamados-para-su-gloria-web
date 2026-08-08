@@ -1,0 +1,64 @@
+.about-preview {
+
+  padding: 6rem 8%;
+  background: #ffffff;
+
+}
+
+.about-content{
+
+  max-width:1200px;
+  margin:auto;
+
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:4rem;
+  align-items:center;
+
+}
+
+.section-label{
+
+  color:#8B6F3D;
+  font-weight:600;
+  letter-spacing:2px;
+  text-transform:uppercase;
+
+}
+
+.about-text h2{
+
+  font-size:2.5rem;
+  margin:1rem 0;
+
+}
+
+.about-text p{
+
+  font-size:1.1rem;
+  line-height:1.8;
+  color:#555;
+
+}
+
+.about-text button{
+
+  margin-top:2rem;
+  padding:1rem 2rem;
+
+  border:none;
+  border-radius:8px;
+
+  background:#8B6F3D;
+  color:white;
+
+  cursor:pointer;
+
+}
+
+.about-image img{
+
+  width:100%;
+  border-radius:16px;
+
+}

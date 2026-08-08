@@ -1,0 +1,52 @@
+.sermons{
+
+    padding:6rem 8%;
+    background:#f7f7f7;
+
+}
+
+.container{
+
+    max-width:1200px;
+    margin:auto;
+
+}
+
+.section-label{
+
+    color:#8B6F3D;
+    text-transform:uppercase;
+    font-weight:600;
+
+}
+
+.section-description{
+
+    color:#666;
+    margin-bottom:3rem;
+
+}
+
+.cards{
+
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:2rem;
+
+}
+
+.card{
+
+    background:white;
+    border-radius:14px;
+    padding:2rem;
+    box-shadow:0 8px 24px rgba(0,0,0,.08);
+
+}
+
+.type{
+
+    color:#8B6F3D;
+    font-weight:600;
+
+}
